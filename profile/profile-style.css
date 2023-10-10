@@ -1,0 +1,22 @@
+@charset "UTF-8";
+li{
+    color: rgb(250, 33, 47);
+    font-size: 20px;
+    background-color: orange;
+}
+p{
+    font-size: 20px;
+    color: rgb(71, 147, 161);
+}
+body{
+    background-color: rgb(232, 249, 189);
+}
+#bg-orange{
+    background-color: rgb(255, 167, 5);
+}
+span{
+    border: 2px solid green;
+}
+#bg-yellow{
+    background-color: yellow;
+}
