@@ -1,6 +1,6 @@
 @charset "UTF-8";
-div{
-    font-size: 0.7rem;
+span{
+    font-size: 0.6rem;
 }
 table, td, th{
     border: solid 1px #654f7c;
@@ -29,4 +29,8 @@ button{
 }
 input{
     margin-bottom: 4px;
+}
+td, th{
+    padding-left: 10px;
+    padding-top: 5px;
 }
