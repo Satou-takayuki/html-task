@@ -1,0 +1,32 @@
+@charset "UTF-8";
+div{
+    font-size: 0.7rem;
+}
+table, td, th{
+    border: solid 1px #654f7c;
+}
+th{
+    text-align: left;
+    vertical-align: top;
+}
+.red{
+    color: white;
+    background-color: red;
+    border-radius: 10px;
+    font-size: 0.7rem;
+}
+td{
+    width: 470px;
+    background-color: rgb(238, 231, 219);
+}
+th{
+    width: 270px;
+    background-color: rgba(96, 81, 58, 0.615);
+    color: aliceblue;
+}
+button{
+    width: 170px;
+}
+input{
+    margin-bottom: 4px;
+}
