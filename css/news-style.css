@@ -1,0 +1,28 @@
+@charset "UTF-8";
+.container{
+    display: flex;
+}
+main{
+    width: 70%;
+    padding: 0.5rem;
+    background-color: darkorange;
+}
+aside{
+    width: 30%;
+}
+aside .image{
+    width: 350px;
+    height: 250px;
+    margin: 0 auto;
+    display: flex;
+}
+aside .image img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+main article{
+    background-color: aliceblue;
+    margin-top: 0.5rem;
+    padding: 0.5rem;
+}
