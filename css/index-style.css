@@ -1,0 +1,16 @@
+@charset "UTF-8";
+main{
+    width: 70%;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    background-color: azure;
+    border: 1.0px solid darkorange;
+
+}
+h2{
+    color: darkorange;
+    background-color: rgb(221, 255, 213);
+}
+h3{
+    color: coral;
+}

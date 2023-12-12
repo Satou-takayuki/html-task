@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+header{
+    width: 100%;
+}
+header nav ul{
+    display: flex;
+    list-style: none;
+    padding: 0px;
+}
+header nav ul li{
+    width: 20%;
+    text-align: center;
+}
+header ul li a{
+    display: block;
+    padding: 0.5rem;
+    text-decoration: none;
+}
+header ul li + li{
+    border-left: 2px solid coral;
+}
+.bread{
+    list-style: none;
+    display: flex;
+}
+.bread li::after{
+    content: ">";
+    padding: 0 0.5rem;
+}
+.bread li:last-child::after{
+    content: "";
+}
+.bread li a:hover{
+    color: red;
+    text-decoration: none;
+}
+.background{
+    background-image: url(../img/IT機器２.jpg);
+    background-position: center;
+    color: crimson;
+}
+header p{
+    color: crimson;
+}
