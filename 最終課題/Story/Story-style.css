@@ -1,0 +1,19 @@
+@charset "UTF-8";
+#index {
+    background-image: url(../img/背景4.jpg);
+    animation-fill-mode: backwards;
+    animation-iteration-count: infinite;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+#wrap{
+    background-color: rgba(9, 41, 48, 0.5);
+    margin-top: 220px;
+    padding: 35px 60px;
+    margin-right: 200px;
+}
+main{
+    margin-right: 120px;
+}

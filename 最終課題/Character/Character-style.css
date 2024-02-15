@@ -1,0 +1,36 @@
+@charset "UTF-8";
+#index {
+    background-image: url(../img/背景1.jpg);
+    animation-fill-mode: backwards;
+    animation-iteration-count: infinite;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+main{
+    font-family: serif;
+}
+.flex{
+    display: flex;
+}
+
+.flex .text{
+    margin: 0 650 0 20px;
+    padding: 0;
+}
+.text p{
+    font-size: 18px;
+}
+.text h2{
+    font-size: 28px;
+}
+.text h3{
+    font-size: 24px;
+}
+.image img{
+    width: 300px;
+    height: 375px;
+    object-fit: contain;
+    padding: 0%;
+}
