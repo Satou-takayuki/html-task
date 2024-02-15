@@ -1,6 +1,6 @@
-#最終課題
+# 最終課題
 
-##ページごとの紹介
+## ページごとの紹介
 
 - index.html
 Story,Character,Gallery,Play,Twitterへ遷移するnavbarを全部のページに作成。そして左上の画像をクリックするとindex.htmlに戻るように作成しました。
