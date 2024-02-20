@@ -34,3 +34,19 @@ main{
     object-fit: contain;
     padding: 0%;
 }
+#Character{
+    border: solid 3px rgb(60, 239, 206);
+}
+#Character ul li a{
+    color: rgb(60, 239, 206);
+    font-size: 20px;
+}
+#flex{
+    display: flex;
+    justify-content: space-around;
+}
+#wrap_Chara{
+    background-color: #ff891b;
+    margin-top: 220px;
+    padding: 35px 60px;
+}
